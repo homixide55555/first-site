@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>00PIUM</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+  <script type="text/javascript" src=" charset="UTF-8"></script><script type="text/javascript" src= charset="UTF-8"></script><style>
+    body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    }
+ </style>
+</head>
+<body bgcolor="92000a">
+  <h1 align="center">LABEL OPIUM</h1>
+<img src="https://avatars.mds.yandex.net/i?id=ed8e388483a7c593a53adb97b7137bae_l-9048286-images-thumbs&n=13" style="float: right; margin: 0 300px 20px 0;" width="20%"></imgsrc>
+<img align="right">
+  <h3 align="left">Opium 
+    (иногда стилизуется как 00pium) — американский лейбл звукозаписи и рэп-коллектив, основанный в 2019 году американским рэпером Playboi Carti. На лейбле, расположенном в Атланте, штат Джорджия, в настоящее время представлены четыре исполнителя: сам Playboi Carti, рэперы Ken Car$on и Destroy Lonely, а также дуэт Homixide Gang.</h3>
+  <h3 align="left">Список подписантов лэйбла:
+  <ol align="left"> 
+        <li>Playboi Carti</li>
+        <li>Ken Carson</li>
+        <li>Destroy Lonely</li>
+        <li>Homixide Gang</li>
+    </ol>
+  </h3>
+  <h2 align="center">Мой любимый исполнитель</h2>
+  <h3 align="left"><u>PLAYBOI CARTI</u></h3>   
+  <p >Джордан Террелл Картер (англ. Jordan Terrell Carter; род. 13 сентября 1995 года, Атланта, Джорджия), более известный под псевдонимом Playboi Carti</p>
+  <h3 align="left">Список альбомов :<i></i></h3>
+  <ol>
+    <li>Playboi Carti</li>
+    <li>Die Lit</li>
+    <li>Whole Lotta Red</li>
+    <li>MUSIC-SORRY 4 DA WAIT</li>
+  </ol>
+  <h3 align="left"><b></b></h3>
+  <h2 align="left"> </h2>
+  <h3><a href="mailto:aatarasov09@gmail.com"></a></h3>
+  <h3><a href="https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD?si=419242b7377e4f9f"> Страница Исполнителя</a></h3>
+  <img src="" style="float: right; margin: 0 300px 20px 0;" width="30%"></imgsrc>
